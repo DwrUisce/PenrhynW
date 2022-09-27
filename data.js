@@ -52,8 +52,8 @@ var APP_DATA = {
         {
           "yaw": 0.2893898984902208,
           "pitch": 0.19347325700299223,
-          "title": "<span style=\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium;\">Castell Penrhyn, taith rithwir</span>",
-          "text": "<span style=\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium;\">Adeiladwyd Castell Penrhyn yn yr arddull Neo-Normanaidd rhwng 1822 a 1837 gan Thomas Hopper ar gyfer George Hay Dawkins-Pennant. Adeiladwyd y castell mawr 204 ystafell ag elw Chwarel y Penrhyn, ac yn ddiweddarach ag elw planhigfeydd siwgr yn Jamaica a gâi eu gweithio yn bennaf gan gaethweision. Etifeddodd y Cyrnol Edward Gordon Douglas-Pennant y castell ac aeth ati i’w ehangu’n sylweddol ar ôl y dyrchafiad yn ei statws i fod y cyntaf o Arglwyddi’r Penrhyn. Adeiladwyd yr Iard Lo hon fel rhan o'r ehangiad hwn ym 1868 ac roedd yn bennaf yn dal coed a glo i'w defnyddio yn llety'r gweision. Rhoddwyd y Castell i'r Ymddiriedolaeth Genedlaethol i'w reoli yn 1951 ar ôl marwolaeth y 4ydd Arglwydd Penrhyn, Hugh Napier, yn 1949.</span>"
+          "title": "<p class=\"MsoNormal\">Castell Penrhyn, taith rithwir<o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\">Adeiladwyd Castell Penrhyn yn yr arddull Neo-Normanaidd\nrhwng 1822 a 1837 gan Thomas Hopper ar gyfer George Hay Dawkins-Pennant.\nAdeiladwyd y castell mawr 204 ystafell ag elw Chwarel y Penrhyn, ac yn\nddiweddarach ag elw planhigfeydd siwgr yn Jamaica a gâi eu gweithio yn bennaf\ngan gaethweision. Etifeddodd y Cyrnol Edward Gordon Douglas-Pennant y castell\nac aeth ati i’w ehangu’n sylweddol ar ôl y dyrchafiad yn ei statws i fod y\ncyntaf o Arglwyddi’r Penrhyn. Adeiladwyd yr Iard Lo hon fel rhan o'r ehangiad hwn\nym 1868 ac roedd yn bennaf yn dal coed a glo i'w defnyddio yn llety'r gweision.\nRhoddwyd y Castell i'r Ymddiriedolaeth Genedlaethol i'w reoli yn 1951 ar ôl\nmarwolaeth y 4ydd Arglwydd Penrhyn, Hugh Napier, yn 1949.<o:p></o:p></p>"
         }
       ]
     },
@@ -239,12 +239,6 @@ var APP_DATA = {
           "text": "<span lang=\"CY\" style=\"font-size:11.0pt;line-height:\n107%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;\nmso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:CY;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Ar ôl i chi orffen edrych o gwmpas yr ystafell\nhon, dyma ddiwedd ein taith. Diolch i chi am eich diddordeb yn ein project!</span>"
         },
         {
-          "yaw": 1.2071016706062956,
-          "pitch": -0.5885311797324118,
-          "title": "Title",
-          "text": "Text"
-        },
-        {
           "yaw": -2.017721660877113,
           "pitch": -0.6408192081640394,
           "title": "<span lang=\"CY\" style=\"font-size:11.0pt;line-height:\n107%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;\nmso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:CY;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Uned Gymysgu</span>",
@@ -259,7 +253,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Penrhyn Castle Welsh",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
